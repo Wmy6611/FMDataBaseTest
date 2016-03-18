@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  FMDataBaseTest
+//
+//  Created by Wmy on 16/3/17.
+//  Copyright © 2016年 Wmy. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+    #import "ModulesUtil.h"
+
+    #define kUD_UserID @"UserID"    // 用用户唯一标识作为该用户数据保存的文件夹名
+
+#endif /* PrefixHeader_pch */
